@@ -36,6 +36,8 @@ If Trim(Session("strCONNECTION")) <> "" Then
 	Set rsCtrlMstr = Nothing
 End if
 
+This is a test change
+
 
 SUB CommonHeader%>
 
